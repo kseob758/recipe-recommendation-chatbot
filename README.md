@@ -1,4 +1,4 @@
-# recipe-recommendation-chatbot
+# recipe-recommendation-chatbot --- 사진을 포함하여 짜임새 있게 구성
 
 ## 프로젝트 개요
 
