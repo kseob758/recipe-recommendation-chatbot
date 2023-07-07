@@ -1,5 +1,4 @@
-# recipe-recommendation-chatbot --- 사진을 포함하여 짜임새 있게 구성
-
+# recipe-recommendation-chatbot ---
 ## 프로젝트 개요
 ### 주제
 ### 주제 선정의 배경
