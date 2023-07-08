@@ -1,4 +1,4 @@
-# recipe-recommendation-chatbot ---
+# recipe-recommendation-chatbot
 ## 프로젝트 개요
 ### 주제
 ### 주제 선정의 배경
